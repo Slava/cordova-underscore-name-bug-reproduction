@@ -31,11 +31,9 @@
 /Users/imslavko/work/ddddddd/platforms/android/assets/www \
 /Users/imslavko/work/ddddddd/platforms/android/assets/www/cordova.js \
 /Users/imslavko/work/ddddddd/platforms/android/assets/www/cordova_plugins.js \
-/Users/imslavko/work/ddddddd/platforms/android/assets/www/css \
 /Users/imslavko/work/ddddddd/platforms/android/assets/www/img \
 /Users/imslavko/work/ddddddd/platforms/android/assets/www/index.html \
 /Users/imslavko/work/ddddddd/platforms/android/assets/www/js \
-/Users/imslavko/work/ddddddd/platforms/android/assets/www/css/index.css \
 /Users/imslavko/work/ddddddd/platforms/android/assets/www/img/logo.png \
 /Users/imslavko/work/ddddddd/platforms/android/assets/www/js/index.js \
 /Users/imslavko/work/ddddddd/platforms/android/ant-build/AndroidManifest.xml \
